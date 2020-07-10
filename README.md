@@ -1,12 +1,16 @@
 # Cotizador Criptomonedas
 
-Aplicación creada con React para obtener la cotización de diez criptomonedas en cinco monedas tradicionales (euro, yen, renminbi, libra esterlina, dolar estadounidense).
+Aplicación creada con React para obtener la cotización de diez criptomonedas en cinco monedas tradicionales.
 
 El diseño está realizado con Styled Components.
 
 Los datos se obtienen de consumir una API externa: [CryptoCompare](https://min-api.cryptocompare.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Autor
+
+Daniel Pompa Pareja
 
 ## Available Scripts
 
