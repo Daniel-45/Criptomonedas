@@ -8,10 +8,6 @@ Los datos se obtienen de consumir una API externa: [CryptoCompare](https://min-a
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Autor
-
-Daniel Pompa Pareja
-
 ## Available Scripts
 
 In the project directory, you can run:
